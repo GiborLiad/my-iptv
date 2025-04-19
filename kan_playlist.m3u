@@ -53,3 +53,5 @@ https://ynet-live-01.ynet-pic1.yit.co.il/ynet/live.m3u8
 https://r.il.cdn-redge.media/livehls/oil/calcala/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 tvg-id="Channel135.il",ערוץ פול ספיד עונה 2 (720p)
 https://raw.githubusercontent.com/GiborLiad/my-iptv/main/speed/playlist.m3u8
+#EXTINF:-1 tvg-id="Channel135.il",ערוץ פול ספיד עונה 2 (גיבוי)
+http://93.172.147.98/playlist.m3u8
